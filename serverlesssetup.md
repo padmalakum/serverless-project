@@ -20,6 +20,8 @@ then we need to install serverless framework
  sudo npm install -g serverless
  and we need to install aws cli to access aws from the console.
  sudo apt install awscli
- 
+ and then create a folder project and cd into that and run this command
+ serverless --org=padma09
+ so that we can start 
 
  
