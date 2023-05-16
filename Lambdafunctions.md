@@ -28,5 +28,17 @@ Serverless automatically backs up state in s3
 
 ![image](https://github.com/padmalakum/serverless-project/assets/92623347/ef4acd9b-fbb2-4574-a471-df0dcf6c1284)
 
+now we will add more lambda functions to that yml file
+
+![image](https://github.com/padmalakum/serverless-project/assets/92623347/aeff0b8c-2b90-4f4e-a7f0-5031c6eb787a)
+
+![image](https://github.com/padmalakum/serverless-project/assets/92623347/e7ee69d9-b8fa-4163-9d4f-16e4295d009d)
+
+and we can watch logs thru clud watch log groups by clicking on each individual links
+
+![image](https://github.com/padmalakum/serverless-project/assets/92623347/5c101dc3-5de6-43af-b70e-428b81fd9184)
+
+![image](https://github.com/padmalakum/serverless-project/assets/92623347/fc56b7a6-fffc-4d5b-b7a8-9466c84bd8d4)
+
 
 
