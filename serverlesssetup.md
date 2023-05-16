@@ -22,6 +22,15 @@ then we need to install serverless framework
  sudo apt install awscli
  and then create a folder project and cd into that and run this command
  serverless --org=padma09
- so that we can start 
+ so that we can start our serverless project by choosing a new one or existing
+ 
+ Here we are going to do a simple Nodejs HTTp API  project
+ 
+![image](https://github.com/padmalakum/serverless-project/assets/92623347/21378a37-b7dc-4706-8f41-46faa65c1b62)
+
+then it will download Nodejs http api template and we have to give aws access keys by creating a user in aws console thru IAM and create access and secret access keys and enter those values here
+then it starts deploying our app
+![image](https://github.com/padmalakum/serverless-project/assets/92623347/913b9102-4a3a-49b6-9632-e44d2a84c575)
+
 
  
